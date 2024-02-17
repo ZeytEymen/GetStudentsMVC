@@ -5,7 +5,6 @@ using System.Web;
 
 namespace GetStudents.Models
 {
-
     public class Students
     {
         public int StudentNo { get; set; }
